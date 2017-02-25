@@ -7,8 +7,8 @@ Problems that i will solve from Online judges like [Codeforces](https://codeforc
 
 
 ## Content
-	* [DataStructures & Algorithms](/DS & Algorithms/) --> Pure implementation to Data structures and Algorithms
-	* Problems 
-		* [UVA Problem](/UVA Problems/)
-		* [Codeforces](/Codeforces/)
-		* [HackerRank Problems](/HackerRank/)
+  * [DataStructures & Algorithms](/DS & Algorithms/) --> Pure implementation to Data structures and Algorithms
+  * Problems 
+	* [UVA Problem](/UVA Problems/)
+	* [Codeforces](/Codeforces/)
+	* [HackerRank Problems](/HackerRank/)
