@@ -4,3 +4,11 @@ Problems that i will solve from Online judges like [Codeforces](https://codeforc
 <p align="center"> :smile: :smile: :smile: :smile: </p>
 
 ![](https://upload.wikimedia.org/wikipedia/commons/8/83/ЯндексАлгоритм.jpg)
+
+
+## Content
+	* [DataStructures & Algorithms](/DS & Algorithms/) --> Pure implementation to Data structures and Algorithms
+	* Problems 
+		* [UVA Problem](/UVA Problems/)
+		* [Codeforces](/Codeforces/)
+		* [HackerRank Problems](/HackerRank/)
