@@ -9,13 +9,13 @@ vector <int> vec ;
 // l , r --> the Range that you wanna search in 
 // k --> is the key that you wanna search for in Range [l , r]
 // List must be sorted.
-ll BinarySearch(int l , int r , int k){ // Recursive
+ll BinarySearch1(int l , int r , int k){ // Recursive
 	if(l > r) return -1 ;  // k is not in the list :(
 	int mid = (l + r) / 2; // get Mid point 
 	if(vec[mid] > k) // if true  , then you should go to the left branch
-		return BinarySearch(l , mid - 1 , k) ;
+		return BinarySearch1(l , mid - 1 , k) ;
 	else if(vec[mid] < k) // if true , then you should go to the right branch
-		return BinarySearch(mid + 1 , r , k) ; 
+		return BinarySearch1(mid + 1 , r , k) ; 
 
 	return mid ;  // if you come to here , ok you must found 'K' in the list
 }
