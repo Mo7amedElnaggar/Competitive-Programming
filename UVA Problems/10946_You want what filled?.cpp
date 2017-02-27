@@ -1,6 +1,6 @@
 /*
  * UVA : 10946 - You want what filled?
- * Link : https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1887
+ * Link : https://uva.onlinejudge.org/external/109/10946.pdf
  * using FloodFill
  */
 #include <bits/stdc++.h>
